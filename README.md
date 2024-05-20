@@ -12,4 +12,4 @@ Some changes were done since to work on python 3.10 and docker 26.0.0 since the 
 the IMDB website can no longer be scraped via simple text screening (meaning that the original tutorial fails when running that movie picker script), so I used another of Patrick's ML tutorials as an example under the basic_scripts section. That should be more stable now.
 
 ## Flask_docker
-[![Flask and Docker](https://img.youtube.com/vi/SD4QbGps/0.jpg)](https://www.youtube.com/watch?v=SD4QbGps)
+[![Flask and Docker](https://img.youtube.com/vi/S--SD4QbGps/0.jpg)](https://www.youtube.com/watch?v=S--SD4QbGps)
