@@ -1,0 +1,8 @@
+scikit-learn==1.4.2 
+nltk==3.8.1
+flask==3.0.3
+
+# we need these things for lemmatizer
+#import nltk
+#nltk.download('omw-1.4')
+#nltk.download('wordnet')
